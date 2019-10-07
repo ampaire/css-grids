@@ -1,0 +1,106 @@
+/* Font Import */
+@import url("https://fonts.googleapis.com/css?family=Abel|Anton|Cabin|Dancing+Script|Indie+Flower|Lacquer|Lato|Lobster|Long+Cang|Lora|Ma+Shan+Zheng|Montserrat|Muli|Open+Sans|Oswald|Pacifico|Raleway|Roboto&display=swap");
+
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Body Base */
+body {
+  font-family: sans-serif;
+  background: #fff;
+  font-family: 1rem;
+  line-height: 1.3;
+}
+
+/* Font Classes */
+.font-abel {
+  font-family: "Abel", sans-serif;
+}
+
+.font-anton {
+  font-family: "anton", sans-serif;
+}
+
+.font-cabin {
+  font-family: "cabin", sans-serif;
+}
+
+.font-dancing {
+  font-family: "Dancing Script", cursive;
+}
+
+.font-indie {
+  font-family: "Indie Flower", cursive;
+}
+
+.font-lacquer {
+  font-family: "Lacquer", sans-serif;
+}
+
+.font-lato {
+  font-family: "Lato", sans-serif;
+}
+
+.font-lobster {
+  font-family: "Lobster", cursive;
+}
+.font-long {
+  font-family: "Long Cang", cursive;
+}
+
+.font-lora {
+  font-family: "Lora", serif;
+}
+
+.font-ma {
+  font-family: "Ma Shan Zheng", cursive;
+}
+
+.font-montserrat {
+  font-family: "Montserrat", sans-serif;
+}
+
+.font-muli {
+  font-family: "Muli", sans-serif;
+}
+
+.font-open {
+  font-family: "Open Sans", sans-serif;
+}
+
+.font-oswald {
+  font-family: "Oswald", sans-serif;
+}
+
+.font-pacifico {
+  font-family: "Pacifico", cursive;
+}
+
+.font-raleway {
+  font-family: "Raleway", sans-serif;
+}
+
+.font-roboto {
+  font-family: "Roboto", sans-serif;
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0.5rem 0;
+  display: block;
+}
+
+/* Paragraph */
+p {
+  margin-bottom: 0.4rem;
+  display: block;
+}
+
