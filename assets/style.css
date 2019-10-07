@@ -183,6 +183,10 @@
   margin-left: 3rem;
 }
 
+.netflix a {
+    justify-self: center;
+  }
+
 .ml-4 {
   margin-left: 4rem;
 }
