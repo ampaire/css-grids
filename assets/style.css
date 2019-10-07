@@ -303,15 +303,19 @@ hr {
 .quote-border-red {
   border-left: 5px solid red;
 }
+
 .quote-border-green {
   border-left: 5px solid green;
 }
+
 .quote-border-yellow {
   border-left: 5px solid yellow;
 }
+
 .quote-border-blue {
   border-left: 5px solid blue;
 }
+
 .quote-border-orange {
   border-left: 5px solid orange;
 }
@@ -320,16 +324,20 @@ hr {
   background: red;
   color: white;
 }
+
 .quote-background-green {
   background: green;
 }
+
 .quote-background-yellow {
   background: yellow;
 }
+
 .quote-background-blue {
   background: blue;
   color: white;
 }
+
 .quote-background-orange {
   background: orange;
 }
