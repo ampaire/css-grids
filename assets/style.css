@@ -18,10 +18,21 @@
   overflow: auto;
 }
 
-.clearfix .des-2 {
-  margin: 120px 2rem!important;
+.clearfix .des-2,
+.clearfix .des-3 {
+  width:500px;
 }
 
-.des-2 {
-  width: 600px;
+.des-2 h3 {
+  font-size: 40px;
+  margin: 0 0 8px;
+}
+
+.des-3 h3 {
+  font-size: 40px;
+  margin: 0 0 8px;
+}
+
+.des-3 {
+  margin-top: 0px
 }
