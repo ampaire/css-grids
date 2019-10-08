@@ -8,3 +8,20 @@
   max-width: 750px;
   margin: 1rem auto;
 }
+
+.logos {
+  width: 100x;
+  height: 50px;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+.clearfix .des-2 {
+  margin: 120px 2rem!important;
+}
+
+.des-2 {
+  width: 600px;
+}
