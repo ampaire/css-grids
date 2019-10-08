@@ -1,4 +1,43 @@
-.title h2 {
+.logos {
+  width: 100x;
+  height: 50px;
+}
+
+.des-2 h2,
+.des-3 h2,
+.des-4 h2 {
+  font-size: 3.125rem;
+  line-height: 1.1;
+  margin-bottom: 0.5rem;
+}
+
+.des-2 p,
+.des-3 p,
+.des-2 p {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.img-size {
+  width: 400px;
+  height: 350px;
+}
+
+.mail {
+  position: relative;
+  margin: 1rem auto;
+  max-width: 1100px;
+  font-size: 1.625rem;
+}
+
+.clearfix {
+  overflow: auto;
+  position: relative;
+  border-top: 10px solid rgb(222, 222, 235);
+}
+
+
+/* .title h2 {
   font-size: 3.125rem;
   line-height: 1.1;
   margin-bottom: 0.5rem;
@@ -16,11 +55,13 @@
 
 .clearfix {
   overflow: auto;
+  position: relative;
 }
 
-.clearfix .des-2,
 .clearfix .des-3 {
-  width:500px;
+  position: absolute;
+  left: 40%;
+  top: 100px
 }
 
 .des-2 h3 {
@@ -35,4 +76,5 @@
 
 .des-3 {
   margin-top: 0px
-}
+} */
+

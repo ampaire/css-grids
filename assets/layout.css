@@ -14,7 +14,7 @@
   grid-row: 9;
 } */
 
-@media (min-width: 56.3125rem) {
+/* @media (min-width: 56.3125rem) {
   .netflix {
     grid-template-columns: repeat(3, 1fr);
     grid-column-gap: 37px;
@@ -55,7 +55,7 @@
     justify-self: end;
     transform: translateX(15px);
   }
-}
+} */
 
 
 /* PADDING */
@@ -430,4 +430,17 @@ hr {
 
 .text-right {
   float: right;
+}
+
+/* Grid */
+.d-grid {
+  display: grid;
+}
+
+.grid-1 {
+  grid-template-columns: 1fr;
+}
+
+.grid-2 {
+  grid-template-columns: 1fr 1fr;
 }
