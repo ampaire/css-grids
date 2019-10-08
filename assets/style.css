@@ -48,6 +48,11 @@
   margin: 10px auto;
 }
 
+.btn p {
+  color: #ffffff;
+  font-size: 30px;
+}
+
 /* .title h2 {
   font-size: 3.125rem;
   line-height: 1.1;
