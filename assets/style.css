@@ -18,8 +18,6 @@
   font-weight: bold;
 }
 
-.clearfix
-
 .img-size {
   width: 400px;
   height: 350px;
@@ -38,11 +36,6 @@
   border-top: 10px solid rgb(222, 222, 235);
 }
 
-.faq .questions,
-.faq button {
-  
-}
-
 .btn {
   width: 60%;
   margin: 10px auto;
@@ -51,6 +44,10 @@
 .btn p {
   color: #ffffff;
   font-size: 30px;
+}
+
+.faq .btn-2 {
+  margin: 10px auto;
 }
 
 /* .title h2 {
