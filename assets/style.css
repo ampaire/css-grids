@@ -91,15 +91,15 @@
 }
 
 .py-2 {
-  padding-bottom: 2rem 0;
+  padding: 2rem 0;
 }
 
 .py-3 {
-  padding-bottom: 3rem 0;
+  padding: 3rem 0;
 }
 
 .py-4 {
-  padding-bottom: 4rem 0;
+  padding: 4rem 0;
 }
 
 /* Padding X */
@@ -108,15 +108,19 @@
 }
 
 .px-2 {
-  padding-bottom: 0 2rem;
+  padding: 0 2rem;
 }
 
 .px-3 {
-  padding-bottom: 0 3rem;
+  padding: 0 3rem;
 }
 
 .px-4 {
-  padding-bottom: 0 4rem;
+  padding: 0 4rem;
+}
+
+.p-xy {
+  padding: 1rem 2rem;
 }
 
 /* - ---- Margin Classes  ---------------------------- */
@@ -298,12 +302,6 @@ hr {
 }
 
 /* Quotes */
-.quote {
-  background: #f4f4f4;
-  margin: 1rem;
-  padding: 1rem;
-  border: none;
-}
 
 .quote-border-red {
   border-left: 5px solid red;
@@ -345,4 +343,27 @@ hr {
 
 .quote-background-orange {
   background: orange;
+}
+
+/* flex */
+.d-flex {
+  display: flex;
+}
+
+.justify-content {
+  justify-content: space-between;
+}
+
+/* border */
+.border-none {
+  border: none;
+}
+
+/* text-align */
+.text-center {
+  margin: o auto;
+}
+
+.text-right {
+  
 }
