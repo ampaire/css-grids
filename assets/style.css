@@ -38,6 +38,15 @@
   border-top: 10px solid rgb(222, 222, 235);
 }
 
+.faq .questions,
+.faq button {
+  
+}
+
+.btn {
+  width: 60%;
+  margin: 10px auto;
+}
 
 /* .title h2 {
   font-size: 3.125rem;

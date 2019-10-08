@@ -356,6 +356,11 @@ hr {
   background: blue;
 }
 
+.grey {
+  background: #303030;
+  ;
+}
+
 .alert-close-btn {
   float: right;
   cursor: pointer;
@@ -443,4 +448,9 @@ hr {
 
 .grid-2 {
   grid-template-columns: 1fr 1fr;
+}
+
+/* display block */
+.d-block {
+  display: block;
 }
