@@ -8,15 +8,17 @@
 .des-4 h2 {
   font-size: 3.125rem;
   line-height: 1.1;
-  margin-bottom: 0.5rem;
+  margin-top: 100px;
 }
 
 .des-2 p,
 .des-3 p,
 .des-2 p {
-  font-size: 15px;
+  font-size: 1.25rem;
   font-weight: bold;
 }
+
+.clearfix
 
 .img-size {
   width: 400px;
