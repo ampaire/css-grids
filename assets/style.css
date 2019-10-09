@@ -56,3 +56,31 @@
   background: linear-gradient(to right, #02fd73 10%, #215a24 36%, #1a1d1a 30%, #3f3f3f 16%, rgba(63, 63, 63, 0) 100%);
 }
 
+.emb-video {
+  width: 400px;
+  height: 350px;
+}
+
+.device-pile, .img-2 {
+  width: 100%;
+  height:100%;
+  position: relative;
+}
+
+.img-2 video {
+  width: 75%;
+  height:100%;
+  position: absolute;
+  left: 12%;
+  top: 0;
+  bottom: 1%;
+}
+
+.device-pile video {
+  width: 100%;
+  height:100%;
+  position: absolute;
+  left: 30%;
+  top: 0;
+  bottom: 23%;
+}
