@@ -50,6 +50,12 @@
   margin: 10px auto;
 }
 
+.green-design {
+  height: 40px;
+  border-radius: 1.05rem;
+  background: linear-gradient(to right, #02fd73 10%, #215a24 36%, #1a1d1a 30%, #3f3f3f 16%, rgba(63, 63, 63, 0) 100%);
+}
+
 /* .title h2 {
   font-size: 3.125rem;
   line-height: 1.1;

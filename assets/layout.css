@@ -462,3 +462,29 @@ hr {
 .d-block {
   display: block;
 }
+
+/* font colors */
+.green {
+  color: rgb(13, 243, 13);
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.white {
+  color: #fff;
+}
+
+/* font size */
+.font-1 {
+  font-size: 1.02rem
+}
+
+.font-2 {
+  font-size: 1.75rem;
+}
