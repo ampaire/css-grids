@@ -248,6 +248,10 @@
   margin-left: 3rem;
 }
 
+.ml-a {
+  margin-left: 10%;
+}
+
 .netflix a {
   justify-self: center;
 }
@@ -448,6 +452,10 @@ hr {
 
 .grid-2 {
   grid-template-columns: 1fr 1fr;
+}
+
+.grid-3 {
+  grid-template-columns: repeat(3, 1fr);
 }
 
 /* display block */
