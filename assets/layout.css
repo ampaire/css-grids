@@ -450,7 +450,31 @@ hr {
   grid-template-columns: 1fr 1fr;
 }
 
+.grid-3 {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.grid-4 {
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
 /* display block */
 .d-block {
   display: block;
+}
+
+/* font size */
+.text-1 {
+  font-size: 1em;
+}
+
+.text-2 {
+  font-size: 2em;
+}
+
+.text-3 {
+  font-size: 3em;
+}
+
+.text-4 {
+  font-size: 4em;
 }
