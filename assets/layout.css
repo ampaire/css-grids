@@ -248,6 +248,10 @@
   margin-left: 3rem;
 }
 
+.ml-a {
+  margin-left: 10%;
+}
+
 .netflix a {
   justify-self: center;
 }
@@ -348,22 +352,8 @@ hr {
   background: green;
 }
 
-.alert-orange {
-  background: orange;
-}
-
-.alert-blue {
-  background: blue;
-}
-
 .grey {
-  background: #303030;
-  ;
-}
-
-.alert-close-btn {
-  float: right;
-  cursor: pointer;
+  background: #2b2a2a;
 }
 
 /* Quotes */
@@ -374,18 +364,6 @@ hr {
 
 .quote-border-green {
   border-left: 5px solid green;
-}
-
-.quote-border-yellow {
-  border-left: 5px solid yellow;
-}
-
-.quote-border-blue {
-  border-left: 5px solid blue;
-}
-
-.quote-border-orange {
-  border-left: 5px solid orange;
 }
 
 .quote-background-red {
@@ -451,30 +429,45 @@ hr {
 }
 
 .grid-3 {
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr);
 }
 
-.grid-4 {
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-}
 /* display block */
 .d-block {
   display: block;
 }
 
+/* font colors */
+.green {
+  color: rgb(13, 243, 13);
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.white {
+  color: #fff;
+}
+
 /* font size */
-.text-1 {
-  font-size: 1em;
+.font-1 {
+  font-size: 1.02rem
 }
 
-.text-2 {
-  font-size: 2em;
+.font-2 {
+  font-size: 1.75rem;
 }
 
-.text-3 {
-  font-size: 3em;
+.font-3 {
+  font-size: 2.00rem;
 }
 
-.text-4 {
-  font-size: 4em;
+/* list style */
+.li-none {
+  list-style: none;
 }
