@@ -506,7 +506,7 @@ hr {
 
 @media all and (max-width: 1055px) {
   .ml-aa {
-    margin-left: 10%;
+    margin-left: 5%;
   }
 
   .display-lg-none {
@@ -568,7 +568,7 @@ hr {
   }
 
   .ml-aa {
-    margin-left: auto;
+    margin-left: 2%;
   }
 
   .grid.col-md-1 > div {

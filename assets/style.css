@@ -69,12 +69,12 @@
 }
 
 .img-2 video {
-  width: 68%;
+  width: 60%;
   height:100%;
   position: absolute;
   left: 20%;
-  top: 0;
-  bottom: 1%;
+  top: 2;
+  bottom: 2%;
 }
 
 .device-pile video {
