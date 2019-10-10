@@ -84,3 +84,34 @@
   top: 0;
   bottom: 23%;
 }
+
+.footer-link ul li {
+  list-style-type: none;
+  margin-top: 15px;
+}
+
+.footer-link ul li a{
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.footer-link ul {
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media (max-width: 1047px) {
+  .clearfix {
+    grid-template-columns: 1fr!important;
+  }
+
+  img {
+    width: 100%;
+    margin: 0 auto;
+  }
+}
