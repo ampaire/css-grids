@@ -62,15 +62,16 @@
   height: 350px;
 }
 
-.device-pile, .img-2 {
+.device-pile,
+.img-2 {
   width: 100%;
-  height:100%;
+  height: 100%;
   position: absolute;
 }
 
 .img-2 video {
   width: 60%;
-  height:100%;
+  height: 100%;
   position: absolute;
   left: 20%;
   top: 2;
@@ -79,7 +80,7 @@
 
 .device-pile video {
   width: 60%;
-  height:100%;
+  height: 100%;
   position: absolute;
   left: 20%;
   top: 2;
@@ -91,7 +92,7 @@
   margin-top: 15px;
 }
 
-.footer-link ul li a{
+.footer-link ul li a {
   text-decoration: none;
   color: #ffffff;
 }
@@ -112,7 +113,7 @@ img {
 
 @media (max-width: 1047px) {
   .clearfix {
-    grid-template-columns: 1fr!important;
+    grid-template-columns: 1fr !important;
   }
 
   img {

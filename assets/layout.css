@@ -14,7 +14,6 @@
   padding: 4rem;
 }
 
-/* Padding Top */
 .pt-1 {
   padding-top: 1rem;
 }
@@ -31,8 +30,6 @@
   padding-top: 4rem;
 }
 
-
-/* Padding Bottom */
 .pb-1 {
   padding-bottom: 1rem;
 }
@@ -49,7 +46,6 @@
   padding-bottom: 4rem;
 }
 
-/* Padding Left */
 .pl-1 {
   padding-left: 1rem;
 }
@@ -66,7 +62,6 @@
   padding-left: 4rem;
 }
 
-/* Padding Right */
 .pr-1 {
   padding-right: 1rem;
 }
@@ -83,7 +78,6 @@
   padding-right: 4rem;
 }
 
-/* Padding Y */
 .py-1 {
   padding: 1rem 0;
 }
@@ -100,7 +94,6 @@
   padding: 4rem 0;
 }
 
-/* Padding X */
 .px-1 {
   padding: 0 1rem;
 }
@@ -121,8 +114,6 @@
   padding: 1rem 2rem;
 }
 
-/* - ---- Margin Classes  ---------------------------- */
-/* margin Around */
 .m-1 {
   margin: 1rem;
 }
@@ -139,7 +130,6 @@
   margin: 4rem;
 }
 
-/* margin Top */
 .mt-1 {
   margin-top: 1rem;
 }
@@ -156,7 +146,6 @@
   margin-top: 4rem;
 }
 
-/* margin Bottom */
 .mb-1 {
   margin-bottom: 1rem;
 }
@@ -173,7 +162,6 @@
   margin-bottom: 4rem;
 }
 
-/* margin Left */
 .ml-1 {
   margin-left: 1rem;
 }
@@ -301,7 +289,7 @@ hr {
 
 .quote-background-red {
   background: #e50914;
-  color: #ffffff;
+  color: #fff;
 }
 
 .quote-background-green {
