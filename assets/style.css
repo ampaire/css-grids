@@ -105,6 +105,10 @@ img {
   height: auto;
 }
 
+.clearfix .emb-video {
+  overflow: hidden;
+}
+
 @media (max-width: 1047px) {
   .clearfix {
     grid-template-columns: 1fr!important;

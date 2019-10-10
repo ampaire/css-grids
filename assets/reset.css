@@ -1,14 +1,10 @@
-/* Font Import */
 @import url("https://fonts.googleapis.com/css?family=Abel|Anton|Cabin|Dancing+Script|Indie+Flower|Lacquer|Lato|Lobster|Long+Cang|Lora|Ma+Shan+Zheng|Montserrat|Muli|Open+Sans|Oswald|Pacifico|Raleway|Roboto&display=swap");
 
-/* General Reset */
 * {
   margin: 0;
   padding: 0;
-
 }
 
-/* Body Base */
 body {
   font-family: sans-serif;
   background: #050000;
@@ -18,7 +14,6 @@ body {
   line-height: 1.3;
 }
 
-/* Font Classes */
 .font-abel {
   font-family: "Abel", sans-serif;
 }
@@ -90,7 +85,6 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-/* Headings */
 h1,
 h2,
 h3,
@@ -101,7 +95,6 @@ h6 {
   display: block;
 }
 
-/* Paragraph */
 p {
   margin-bottom: 0.4rem;
   display: block;
