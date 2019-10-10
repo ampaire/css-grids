@@ -1,5 +1,5 @@
 .logos {
-  width: 100x;
+  width: 100px;
   height: 50px;
 }
 
@@ -11,7 +11,7 @@
   margin-top: 100px;
 }
 
-.des-2 p,
+.des-1 p,
 .des-3 p,
 .des-2 p {
   font-size: 1.25rem;
@@ -42,7 +42,7 @@
 }
 
 .btn p {
-  color: #ffffff;
+  color: #fff;
   font-size: 30px;
 }
 
@@ -94,7 +94,7 @@
 
 .footer-link ul li a {
   text-decoration: none;
-  color: #ffffff;
+  color: #fff;
 }
 
 .footer-link ul {

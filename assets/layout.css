@@ -238,15 +238,15 @@
   margin: 0 4rem;
 }
 
-.text-left {
+.float-left {
   text-align: left;
 }
 
-.text-center {
+.float-center {
   text-align: center;
 }
 
-.text-right {
+.float-right {
   text-align: right;
 }
 
@@ -321,10 +321,6 @@ hr {
   border: none;
 }
 
-.text-center {
-  margin: o auto;
-}
-
 .text-left {
   float: left;
 }
@@ -370,7 +366,7 @@ hr {
 }
 
 .font-1 {
-  font-size: 1.02rem
+  font-size: 1.02rem;
 }
 
 .font-2 {
@@ -378,7 +374,7 @@ hr {
 }
 
 .font-3 {
-  font-size: 2.00rem;
+  font-size: 2rem;
 }
 
 .li-none {
@@ -565,8 +561,7 @@ hr {
 
   .grid.col-md-2 > div {
     width: 50%;
-  }
-  
+  }  
 
   .grid.col-md-3 > div {
     width: 33.33333%;
@@ -619,7 +614,7 @@ hr {
   }
 
   .ml-aa {
-   margin-left: auto;
+    margin-left: auto;
   }
 
   .grid.col-sm-2 > div {
