@@ -1,7 +1,6 @@
-# css-grids project
-# Microverse css-grid project
-Microverse css-grid project 2019
-The aim of the project was to create a page that imitates the [Netflix page](https://www.netflix.com/ng/) using our own css grid. 
+# css-grids project [Microverse](microverse.org) css-grid project
+In this project, we are required to create our own CSS grids framework and look for one of the pages on the internet and make a clone of it. 
+We have created a page that imitates the [Netflix page](https://www.netflix.com/ng/) using our own css grid. 
 
 ### FEATURES
 Imitates the [Netflix page](https://www.netflix.com/ng/) 
