@@ -1,21 +1,32 @@
 # css-grids project [Microverse](microverse.org) css-grid project
-In this project, we are required to create our own CSS grids framework and look for one of the pages on the internet and make a clone of it. 
-We have created a page that imitates the [Netflix page](https://www.netflix.com/ng/) using our own css grid. 
+![](name-of-giphy.gif)
+
+[![Watch the video](https://www.loom.com/share/5799a50ce3af4658ae489218c9b14450)]
+In this project, we are required to create our own CSS grids framework, look for a web page on the internet and make a clone of it. 
+We have chosen to create a page that imitates the [Netflix page](https://www.netflix.com/ng/) using our own css grid. 
 
 ### FEATURES
 Imitates the [Netflix page](https://www.netflix.com/ng/) 
 
 
-### BUILT WITH
-Css-grid
+### TECHNOLOGIES
+- HTML
+- CSS (css-grids)
 
 
 ### SETTING UP
 1. Clone this repository
     [Repository](https://github.com/ampaire/css-grids.git)
 
+### DEMO LINK
+[link](https://raw.githack.com/ampaire/css-grids/ft-css-grids/index.html)
+
 ### USING THE PROJECT
-Click on this [link](https://raw.githack.com/ampaire/css-grids/ft-css-grids/index.html)  to go to the live preview 
+In the terminal, run:
+```
+git clone https://github.com/ampaire/css-grids.git
+```
+If you have live server installed, click on the option of open live server in the editor and you will have the project running in your favorite browser.
 
 ### AUTHORS
 - Github-> [@ampaire](https://github.com/ampaire)
