@@ -1,7 +1,6 @@
 # css-grids project [Microverse](microverse.org) css-grid project
-![](name-of-giphy.gif)
+![Netflix](captured.gif)
 
-[![Watch the video](https://www.loom.com/share/5799a50ce3af4658ae489218c9b14450)]
 In this project, we are required to create our own CSS grids framework, look for a web page on the internet and make a clone of it. 
 We have chosen to create a page that imitates the [Netflix page](https://www.netflix.com/ng/) using our own css grid. 
 
