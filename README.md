@@ -18,4 +18,9 @@ Css-grid
 Click on this [link](https://raw.githack.com/ampaire/css-grids/ft-css-grids/index.html)  to go to the live preview 
 
 ### AUTHORS
-[AMPAIRE PHEMIA](https://github.com/ampaire) and [Elijah Obominuru](https://github.com/Elijahscriptdev)
+- Github-> [@ampaire](https://github.com/ampaire)
+- Twitter-> [@AmpaPhem](https://twitter.com/AmpaPhem)
+- LinkedIn-> [Ampaire Phemia](https://www.linkedin.com/in/ampaire-phemia-b41619181)
+
+ and 
+ - [Elijah Obominuru](https://github.com/Elijahscriptdev)
