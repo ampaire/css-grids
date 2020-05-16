@@ -19,7 +19,8 @@ Imitates the [Netflix page](https://www.netflix.com/ng/)
 ### USING THE PROJECT
 In the terminal, run:
 ```
-git clone https://github.com/ampaire/css-grids.git```
+git clone https://github.com/ampaire/css-grids.git
+```
 If you have live server installed, click on the option of open live server in the editor and you will have the project running in your favorite browser. If you do not have live server installed, don't worry, you can still open the file in your favorite browser by opening the index.hml file in your browser.
 
 ### AUTHORS
