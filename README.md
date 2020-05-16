@@ -1,4 +1,5 @@
-# css-grids project [Microverse](microverse.org) css-grid project
+# CSS GRIDS PROJECT.
+
 ![Netflix](captured.gif)
 
 In this project, we created our own CSS grids framework, looked for a web page on the internet and made a clone of it. 
