@@ -1,4 +1,4 @@
-#<h1 align = 'center'> CSS GRIDS PROJECT - NETFLIX HOME PAGE</h1>
+<h1 align = 'center'> CSS GRIDS PROJECT - NETFLIX HOME PAGE</h1>
 
 ![Netflix](captured.gif)
 
