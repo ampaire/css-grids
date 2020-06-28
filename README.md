@@ -3,10 +3,10 @@
 ![Netflix](captured.gif)
 
 In this project, we created our own CSS grids framework, looked for a web page on the internet and made a clone of it. 
-We have chose to create a page that imitates the [Netflix page](https://www.netflix.com/ng/) using the created grid framework. 
+We have chosen to create a page that imitates the [Netflix page](https://www.netflix.com/ng/) using the created grid framework. 
 
 ### FEATURES
-Imitates the [Netflix page](https://www.netflix.com/ng/) 
+Imitates/ is a clone of the [Netflix page](https://www.netflix.com/ng/) 
 
 
 ### TECHNOLOGIES
