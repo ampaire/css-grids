@@ -22,7 +22,7 @@ In the terminal, run:
 ```
 git clone https://github.com/ampaire/css-grids.git
 ```
-If you have live server installed, open live server in the editor and you will have the project running in your favorite browser. If you do not have live server installed, don't worry, you can still open the file in your favorite browser by opening the index.hml file in your browser.
+If you have live server installed, open live server in the editor and you will have the project running in your favorite browser. If you do not have live server installed, don't worry, you can still open the file in your favorite browser by opening the index.hml file in the browser.
 
 ### AUTHORS
 - Github-> [@ampaire](https://github.com/ampaire)
